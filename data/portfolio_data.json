@@ -1,0 +1,387 @@
+{
+	"videoData": {
+		"url": "video.mp4",
+		"poster": "video_poster.jpg"
+	},
+	"keytextData": {
+		"strong": "WEB PUBLISHER\nLIM HAN GIL'S PORTFOLIO.",
+		"span1": "성실함과 우직함으로 끊임없이 배우고",
+		"span2": "발전하는 신입 웹 퍼블리셔 임한길입니다."
+	},
+	"gnbData": ["HOME", "ABOUT ME", "SKILLS", "PORTFOLIO", "CONTACT"],
+	"mobiletextData": {
+		"strong": "Lim Han Gil",
+		"p": "20-1, Yeongdeungpo-ro 47-gil,\nYeongdeungpo-gu, Seoul\nTel. 010-2532-5460\nE-mail. onewayay@naver.com"
+	},
+	"closebtnData": {
+		"url": "icon_close.png",
+		"alt": "close_btn"
+	},
+	"page1Data": {
+		"url": "my_photo.png",
+		"alt": "my_photo",
+		"span1": "LIM HAN GIL'S",
+		"span2": "PORTFOLIO",
+		"p": "웹 퍼블리셔 임한길입니다.\n성실함과 우직함으로 끊임없이 배우고 발전하겠습니다."
+	},
+	"page2Data": {
+		"profile": [
+			{
+				"strong": "NAME",
+				"p": "임한길 / Lim Han Gil"
+			},
+			{
+				"strong": "BIRTH",
+				"p": "1991.11.15"
+			},
+			{
+				"strong": "PHONE",
+				"p": "010.2532.5460"
+			},
+			{
+				"strong": "E-MAIL",
+				"p": "onewayay@naver.com"
+			}
+
+		],
+		"history": [
+			{
+				"strong": "~2023.01",
+				"p": "하이미디어컴퓨터학원\nUI/UX 웹디자인&웹퍼블리셔(프론트앤드)"
+			},
+			{
+				"strong": "2022.12",
+				"p": "웹디자인기능사 취득"
+			},
+			{
+				"strong": "2021.2",
+				"p": "국가평생교육진흥원 성악학사 취득"
+			},
+			{
+				"strong": "2015.2",
+				"p": "백석예술대학교 뮤지컬과 졸업"					
+			}
+		]
+	},
+	"page3Data": [
+		{
+			"url": "html5.svg",
+			"alt": "html",
+			"strong": "HTML",
+			"p": "HTML5 DTD 문법 준수\n웹 접근성을 높인 Semantic Page 작성\n"
+		},
+		{
+			"url": "css.svg",
+			"alt": "css",
+			"strong": "CSS",
+			"p": "IR 기법을 이용한 스타일 작성\n화려한 CSS3 Animation 구현\n"
+		},
+		{
+			"url": "mobile.svg",
+			"alt": "responsive",
+			"strong": "RESPONSIVE",
+			"p": "반응형 웹 페이지 스타일 작성\n모바일 페이지 스타일 작성\n"
+		},
+		{
+			"url": "sass.svg",
+			"alt": "sass",
+			"strong": "SASS",
+			"p": "CSS 전처리 기능 프로그래밍(SASS)\n\n"
+		},
+		{
+			"url": "jquery.svg",
+			"alt": "jquery",
+			"strong": "jQuery",
+			"p": "JavaScript 플러그인 활용 및 구현(jQuery)\nParallax 웹 페이지 구현\n외부 API 구현(Google Map, Carousel)"
+		},
+		{
+			"url": "javascript.png",
+			"alt": "JavaScript",
+			"strong": "EcmaScript 6.0",
+			"p": "JavaScript 표준 작성\n\n"
+		},
+		{
+			"url": "git.svg",
+			"alt": "git",
+			"strong": "Git",
+			"p": "GitHub를 이용한 Git 시스템 협업 가능\n\n"
+		},
+		{
+			"url": "photoshop.svg",
+			"alt": "Photoshop",
+			"strong": "Photoshop"
+		},
+		{
+			"url": "illustrator.svg",
+			"alt": "illustrator",
+			"strong": "Illustrator"
+		},
+		{
+			"url": "adobe_xd.svg",
+			"alt": "Adobe XD",
+			"strong": "Adobe XD"
+		},
+		{
+			"url": "figma.svg",
+			"alt": "Figma",
+			"strong": "Figma"
+		}
+	],
+	"logoData":{
+		"url": "logo.png",
+		"alt": "logo"
+	},
+	"paginationData": [
+		{
+			"url": "hi.png",
+			"alt": "1st_page"
+		},
+		{
+			"url": "profile.png",
+			"alt": "2nd_page"
+		},
+		{
+			"url": "skills.png",
+			"alt": "3rd_page"
+		}
+	],
+	"resumeData": {
+		"resumeurl": "pdf첨부하기"
+	},
+	"linkData":[
+		{
+			"url": "http://www.instagram.com/haaaaan__giri",
+			"i": "fa-brands fa-instagram",
+			"span": "Instagram"
+		},
+		{
+			"url": "https://codepen.io/LIMHanGIL",
+			"i": "fa-brands fa-codepen",
+			"span": "CodePen"
+		},
+		{
+			"url": "https://github.com/gksrlffla",
+			"i": "fa-brands fa-github",
+			"span": "GitHub"
+		},
+		{
+			"url": "https://www.figma.com/@onewayay",
+			"i": "fa-brands fa-figma",
+			"span": "Figma"
+		}
+	],
+	"aboutData": {
+		"photo": {
+			"url": "photo.jpg",
+			"alt": "photo"
+		},
+		"desc1top": [
+			{
+				"p1": "Name",
+				"p2": "임한길"
+			},
+			{
+				"p1": "Age",
+				"p2": "1991.11.15"
+			},
+			{
+				"p1": "Address",
+				"p2": "서울시 영등포구 영등포동"
+			},
+			{
+				"p1": "Phone",
+				"p2": "010.2532.5460"
+			},
+			{
+				"p1": "Email",
+				"p2": "onewayay@naver.com"
+			}
+		],
+		"desc1bottom": [
+			{
+				"p1": "~23.01",
+				"p2": "하이미디어컴퓨터학원\nUI/UX 웹디자인&웹퍼블리셔\n(프론트앤드)"
+			},
+			{
+				"p1": "22.12",
+				"p2": "웹디자인기능사 취득"
+			},
+			{
+				"p1": "21.02",
+				"p2": "국가평생교육진흥원 성악학사 취득"
+			},
+			{
+				"p1": "15.02",
+				"p2": "백석예술대학교 졸업"
+			}
+		],
+		"desc2": [
+			{
+				"p": "HTML",
+				"span1": "HTML5 DTD 문법 준수",
+				"span2": "웹 접근성을높인 Semantic Page 작성"
+			},
+			{
+				"p": "CSS",
+				"span1": "IR 기법을 이용한 스타일 작성",
+				"span2": "반응형 웹 페이지와 모바일 페이지 스타일 작성",
+				"span3": "CSS3 Animation 구현"
+			},
+			{
+				"p": "jQuery",
+				"span1": "JavaScript 플러그인 활용 및 구현(jQuery)",
+				"span2": "Parallax 웹 페이지 구현",
+				"span3": "외부 API 구현(Google Map, Carousel)"
+			},
+			{
+				"p": "Git",
+				"span1": "GitHub를 이용한 Git 시스템 협업 가능"
+			}
+		]
+	},
+	"skillsData": [
+		{
+			"url": "spec1_m.jpg",
+			"alt": "spec1_m",
+			"span1": "HTML5 DTD 문법을 준수하고 웹 접근성을",
+			"span2": "높인 Semantic Page 작성합니다.",
+			"span3": "CSS를 이용해 IR 기법과 반응형 웹 페이지,",
+			"span4": "모바일 페이지 스타일을 작성할 수 있으며",
+			"span5": "다양한 CSS3 Animation을 구현합니다.",
+			"p1": "STRUCTURE",
+			"p2": "HTML / CSS"
+		},
+		{
+			"url": "spec2_m.jpg",
+			"alt": "spec2_m",
+			"span1": "GitHub를 이용하여",
+			"span2": "Git 시스템 협업이 가능합니다.",
+			"p1": "SCM",
+			"p2": "Github"
+		},
+		{
+			"url": "spec3_m.jpg",
+			"alt": "spec3_m",
+			"span1": "JavaScript 플러그인 활용 및",
+			"span2": "Parallax 웹 페이지를 구현합니다.",
+			"span3": "사용자 인터페이스 구현을 위한",
+			"span4": "JavaScript 라이브러리가 가능합니다.",
+			"p1": "INTERACTION",
+			"p2": "jQuery / JavaScript"
+		}
+	],
+	"projectData": {
+		"emons": {
+			"id": "project1",
+			"fixedclass": "fixed_area",
+			"title": {
+				"h3": "EMONS",
+				"span": "에몬스"
+			},
+			"review": {
+				"site": "EMONS",
+				"date": "3Weeks",
+				"type": "Desktop / Mobile",
+				"category": "Furniture Brand"
+			},
+			"thumbnail": {
+				"image": "thumb1.png",
+				"alt": "thumb1"
+			},
+			"link": {
+				"direction": "https://gksrlffla.github.io/project1/",
+				"classname": "project1",
+				"custom": "https://www.figma.com/community/file/1186869051548125887"
+			},
+			"desktopInfo": {
+				"deskimage": "project1_pc_modal.png",
+				"p1": "기존 사이트에서 중요 컨텐츠를 압축하고 시각적 효과를 중심으로",
+				"p2": "개선하여 제작하였습니다."
+			},
+			"mobileInfo": {
+				"thumbs": [
+					{"image": "project_m1.png", "alt": "project_m1"},
+					{"image": "project_m2.png", "alt": "project_m2"},
+					{"image": "project_m3.png", "alt": "project_m3"}
+				]
+			}
+		},
+		"hankook": {
+			"id": "project2",
+			"fixedclass": "fixed_area2",
+			"title": {
+				"h3": "HANKOOK CHINAWARE",
+				"span": "한국도자기"
+			},
+			"review": {
+				"site": "HANKOOK CHINAWARE",
+				"date": "3Weeks",
+				"type": "Desktop / Mobile",
+				"category": "Furniture Brand"
+			},
+			"thumbnail": {
+				"image": "thumb2.png",
+				"alt": "thumb2"
+			},
+			"link": {
+				"direction": "https://gksrlffla.github.io/project2/",
+				"classname": "project2",
+				"custom": "https://www.figma.com/community/file/1186876107733785281"
+			},
+			"desktopInfo": {
+				"deskimage": "project2_pc_modal.png",
+				"p1": "기존 사이트에서 부족했던 정보성 콘텐츠를 이미지와 KeyText 중심으로",
+				"p2": "개선하여 제작하였습니다."
+			},
+			"mobileInfo": {
+				"thumbs": [
+					{"image": "project2_m1.png", "alt": "project2_m1"},
+					{"image": "project2_m2.png", "alt": "project2_m2"},
+					{"image": "project2_m3.png"," alt": "project2_m3"}
+				]
+			}
+		},
+		"innoforce": {
+			"id": "project3",
+			"fixedclass": "fixed_area3",
+			"title": {
+				"h3": "INNOFORCE",
+				"span": "이노포스"
+			},
+			"review": {
+				"site": "INNOFORCE",
+				"date": "3Weeks",
+				"type": "Desktop / Mobile",
+				"category": "Web Agency"
+			},
+			"thumbnail": {
+				"image": "thumb3.png",
+				"alt": "thumb3"
+			},
+			"link": {
+				"direction": "https://gksrlffla.github.io/project3/",
+				"classname": "project2"
+			},
+			"desktopInfo": {
+				"deskimage": "project3_pc_modal.png",
+				"p1": "기존 사이트에서 불편한 점과 부족했던 정보성 콘텐츠를 중심으로",
+				"p2": "개선하여 제작하였습니다."
+			},
+			"mobileInfo": {
+				"thumbs": [
+					{"image": "project3_m1.png", "alt": "project3_m1"},
+					{"image": "project3_m2.png", "alt": "project3_m2"},
+					{"image": "project3_m3.png", "alt": "project3_m3"}
+				]
+			}
+		}
+	},
+	"footerData": {
+		"h2": "CONTACT",
+		"p": "UX/UI Design & Web Publishing",
+		"span1": "PHONE",
+		"span2": "010.2532.5460",
+		"span3": "E-MAIL",
+		"span4": "onewayay@naver.com"
+	}		
+}
