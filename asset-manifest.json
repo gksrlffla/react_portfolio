@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://github.com/gksrlffla/react_portfolio.git/static/css/main.434cad9f.css",
-    "main.js": "https://github.com/gksrlffla/react_portfolio.git/static/js/main.abc16c2b.js",
-    "static/js/787.05671433.chunk.js": "https://github.com/gksrlffla/react_portfolio.git/static/js/787.05671433.chunk.js",
-    "static/media/project1_bg.jpg": "https://github.com/gksrlffla/react_portfolio.git/static/media/project1_bg.2d63a2e2fe422847b7d7.jpg",
-    "static/media/project3_bg.jpg": "https://github.com/gksrlffla/react_portfolio.git/static/media/project3_bg.d2a95daa02cd17ad9511.jpg",
-    "static/media/project2_bg.jpg": "https://github.com/gksrlffla/react_portfolio.git/static/media/project2_bg.e1ec587722e0a506a88b.jpg",
-    "static/media/footer_bg.jpg": "https://github.com/gksrlffla/react_portfolio.git/static/media/footer_bg.c22cc236001051557cbf.jpg",
-    "index.html": "https://github.com/gksrlffla/react_portfolio.git/index.html",
-    "main.434cad9f.css.map": "https://github.com/gksrlffla/react_portfolio.git/static/css/main.434cad9f.css.map",
-    "main.abc16c2b.js.map": "https://github.com/gksrlffla/react_portfolio.git/static/js/main.abc16c2b.js.map",
-    "787.05671433.chunk.js.map": "https://github.com/gksrlffla/react_portfolio.git/static/js/787.05671433.chunk.js.map"
+    "main.css": "/static/css/main.434cad9f.css",
+    "main.js": "/static/js/main.7ed1f3ea.js",
+    "static/js/787.05671433.chunk.js": "/static/js/787.05671433.chunk.js",
+    "static/media/project1_bg.jpg": "/static/media/project1_bg.2d63a2e2fe422847b7d7.jpg",
+    "static/media/project3_bg.jpg": "/static/media/project3_bg.d2a95daa02cd17ad9511.jpg",
+    "static/media/project2_bg.jpg": "/static/media/project2_bg.e1ec587722e0a506a88b.jpg",
+    "static/media/footer_bg.jpg": "/static/media/footer_bg.c22cc236001051557cbf.jpg",
+    "index.html": "/index.html",
+    "main.434cad9f.css.map": "/static/css/main.434cad9f.css.map",
+    "main.7ed1f3ea.js.map": "/static/js/main.7ed1f3ea.js.map",
+    "787.05671433.chunk.js.map": "/static/js/787.05671433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.434cad9f.css",
-    "static/js/main.abc16c2b.js"
+    "static/js/main.7ed1f3ea.js"
   ]
 }
