@@ -22,7 +22,7 @@
 		"alt": "my_photo",
 		"span1": "LIM HAN GIL'S",
 		"span2": "PORTFOLIO",
-		"p": "웹 퍼블리셔 임한길입니다.\n성실함과 우직함으로 끊임없이 배우고 발전하겠습니다."
+		"p": "신입 웹 퍼블리셔 임한길입니다.\n성실함과 우직함으로 끊임없이 배우고 발전하겠습니다."
 	},
 	"page2Data": {
 		"profile": [
@@ -107,6 +107,18 @@
 			"p": "GitHub를 이용한 Git 시스템 협업 가능\n\n"
 		},
 		{
+			"url": "react.svg",
+			"alt": "React",
+			"strong": "React",
+			"p": "React를 활용한 사용자 인터페이스 구현\n\n"
+		},
+		{
+			"url": "figma.svg",
+			"alt": "Figma",
+			"strong": "Figma",
+			"p": "Figma를 이용한 사용자 정의"
+		},
+		{
 			"url": "photoshop.svg",
 			"alt": "Photoshop",
 			"strong": "Photoshop"
@@ -120,11 +132,6 @@
 			"url": "adobe_xd.svg",
 			"alt": "Adobe XD",
 			"strong": "Adobe XD"
-		},
-		{
-			"url": "figma.svg",
-			"alt": "Figma",
-			"strong": "Figma"
 		}
 	],
 	"logoData":{
