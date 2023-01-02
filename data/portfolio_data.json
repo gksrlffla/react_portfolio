@@ -92,7 +92,7 @@
 			"url": "jquery.svg",
 			"alt": "jquery",
 			"strong": "jQuery",
-			"p": "JavaScript 플러그인 활용 및 구현(jQuery)\nParallax 웹 페이지 구현\n외부 API 구현(Google Map, Carousel)"
+			"p": "JavaScript 플러그인 활용 및 구현(jQuery)\nParallax 웹 페이지 구현\n외부 API 구현(Google Map, SwiperJS)"
 		},
 		{
 			"url": "javascript.png",
@@ -116,7 +116,7 @@
 			"url": "figma.svg",
 			"alt": "Figma",
 			"strong": "Figma",
-			"p": "Figma를 이용한 사용자 정의"
+			"p": "Figma를 이용한 사용자 정의\n\n"
 		},
 		{
 			"url": "photoshop.svg",
